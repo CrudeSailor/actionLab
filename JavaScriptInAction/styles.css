@@ -1,0 +1,15 @@
+
+
+#float_right {
+    float: right;
+    width: 860px;
+    height: 608px;
+    margin-left: 200px;
+}
+
+#float_left {
+    float: right;
+    width: 860px;
+    height: 700px;
+    margin-left: 200px;
+}
